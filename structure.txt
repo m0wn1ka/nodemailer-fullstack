@@ -1,0 +1,12 @@
+try with to attributea a list of mails,=
+import the list from a external file,=
+create google form and send to 3 mails 
+make a excel sheet from google form data
+export the data of excel  into the mongodb
+check feasibility of sending mails
+various fronend and backend routes
+make the site uploaded to server
+send mails along with the website link
+==========
+the data of forms=>excel=>csv=>export to mongodb
+make site live

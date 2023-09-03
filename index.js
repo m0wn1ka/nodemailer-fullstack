@@ -26,7 +26,8 @@ database();
 //middle ware ,body parser,for allowing access to req object
 app.use(express.json({extended:false}));
 app.use('/send-email',require("./routes/folder1/send-mail"))
-app.use('/',require('./routes/folder1/default'))
+app.use('/alumini',require("./routes/folder1/alumini"))
+app.use('',require('./routes/folder1/default'))
 
 if (process.env.NODE_ENV === 'production') {
     // Set static folder
