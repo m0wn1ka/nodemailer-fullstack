@@ -68,7 +68,8 @@ function Alumini() {
 
   return (
     <div className="App">
-      hi
+      <center>hi there this is the data of alumini </center><br>
+      </br><center>used react,node,redux,mongodb,expres</center>
       <ul>
        
         {postData.map((item) => (

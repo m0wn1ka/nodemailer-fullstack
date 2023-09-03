@@ -12,7 +12,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/alumini" element={<Alumini/>}>
+        <Route path="/" element={<Alumini/>}>
         
         
         </Route>
