@@ -8,3 +8,7 @@ then a end user ,students can findout about the alumini and get them selves conn
 git clone 
 cd to dir
 npm install && node index.js && cd frontend && npm install && npm start
+## todo
+send mails to the alumini(we can specify to whom we want to send mails in a file )
+export the data to mongodb
+build and deploy
