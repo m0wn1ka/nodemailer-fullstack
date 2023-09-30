@@ -12,3 +12,5 @@ npm install && node index.js && cd frontend && npm install && npm start
 send mails to the alumini(we can specify to whom we want to send mails in a file )
 export the data to mongodb
 build and deploy
+## used mail for db
+m0wn1ka0001
